@@ -6,6 +6,14 @@
 
 👀 I’m a developer from Cebu, Ph
 
+### 📊 GitHub stats
+<a href="https://github.com/japzio">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=japzio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+</a>
+<a href="https://github.com/japzio">
+  <img align="center" height="180em" src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=japzio&layout=compact&langs_count=8&theme=github_dark&hide=liquid&exclude_repo=PyCheckiO&include_private=true&include_forks=true"/>
+</a>
+
 <!--
 **japzio/japzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
