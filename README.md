@@ -6,7 +6,7 @@
 
 👀 I’m a developer from Cebu, Ph
 
-### 📊 GitHub stats
+### Stats :bar_chart: 
 <a href="https://github.com/japzio">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=japzio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
 </a>
