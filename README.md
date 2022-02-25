@@ -4,7 +4,7 @@
 [![Linkedin: jasperculong](https://img.shields.io/badge/-jasperculong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperculong/)](https://www.linkedin.com/in/jasperculong/)
 [![GitHub Jasper C](https://img.shields.io/github/followers/japzio?label=follow&style=social)](https://github.com/japzio)
 
-👀 I’m a developer from Cebu, Ph
+👀 I’m a software developer from Cebu, Ph
 
 ### Stats :bar_chart: 
 <a href="https://github.com/japzio">
