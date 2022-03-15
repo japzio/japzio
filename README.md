@@ -3,7 +3,7 @@
 [![Twitter: japzio](https://img.shields.io/twitter/follow/japzio?style=social)](https://twitter.com/japzio)
 [![Linkedin: jasperculong](https://img.shields.io/badge/-jasperculong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperculong/)](https://www.linkedin.com/in/jasperculong/)
 [![GitHub: japzio](https://img.shields.io/github/followers/japzio?label=follow&style=social)](https://github.com/japzio)
-[![Upwork: japzio](https://img.shields.io/static/v1?label=up&message=work&color=green)](https://www.upwork.com/freelancers/~01e9814c90add9bbab?viewMode=1)
+![Upwork: japzio](https://img.shields.io/badge/-upwork-green?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01e9814c90add9bbab?s=1110580748673863680)
 
 👀 I’m a software developer from Cebu, Ph
 
