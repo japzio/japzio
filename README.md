@@ -3,7 +3,7 @@
 [![Twitter: japzio](https://img.shields.io/twitter/follow/japzio?style=social)](https://twitter.com/japzio)
 [![Linkedin: jasperculong](https://img.shields.io/badge/-jasperculong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperculong/)](https://www.linkedin.com/in/jasperculong/)
 
-👀 I’m a software developer from Cebu, Ph
+👀 software developer from Cebu, Ph
 
 <a href="https://github.com/japzio">
   <img align="center" height="180em" src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=japzio&layout=compact&langs_count=8&theme=github_dark&hide=liquid&exclude_repo=PyCheckiO&include_private=true&include_forks=true"/>
