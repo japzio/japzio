@@ -1,6 +1,5 @@
 ### Hi there 👋 I’m Jasper
 
-[![Twitter: japzio](https://img.shields.io/twitter/follow/japzio?style=social)](https://twitter.com/japzio)
 [![Linkedin: jasperculong](https://img.shields.io/badge/-jasperculong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperculong/)](https://www.linkedin.com/in/jasperculong/)
 
 👀 software developer from Cebu, Ph
